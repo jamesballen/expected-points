@@ -1,0 +1,696 @@
+﻿matchweek,team_home,team_away,team_shot,expected_goals
+1,Crystal Palace,Arsenal,Arsenal,0.15
+1,Crystal Palace,Arsenal,Arsenal,0.22
+1,Crystal Palace,Arsenal,Arsenal,0.03
+1,Crystal Palace,Arsenal,Arsenal,0.1
+1,Crystal Palace,Arsenal,Arsenal,0.16
+1,Crystal Palace,Arsenal,Crystal Palace,0.1
+1,Crystal Palace,Arsenal,Crystal Palace,0.04
+1,Crystal Palace,Arsenal,Crystal Palace,0.08
+1,Crystal Palace,Arsenal,Crystal Palace,0.04
+1,Crystal Palace,Arsenal,Arsenal,0.05
+1,Crystal Palace,Arsenal,Crystal Palace,0.49
+1,Crystal Palace,Arsenal,Arsenal,0.03
+1,Crystal Palace,Arsenal,Crystal Palace,0.03
+1,Crystal Palace,Arsenal,Arsenal,0.09
+1,Crystal Palace,Arsenal,Crystal Palace,0.06
+1,Crystal Palace,Arsenal,Crystal Palace,0.05
+1,Crystal Palace,Arsenal,Crystal Palace,0.17
+1,Crystal Palace,Arsenal,Crystal Palace,0.14
+1,Crystal Palace,Arsenal,Arsenal,0.09
+1,Crystal Palace,Arsenal,Arsenal,0.08
+2,Arsenal,Leicester City,Leicester City,0.11
+2,Arsenal,Leicester City,Arsenal,0.14
+2,Arsenal,Leicester City,Arsenal,0.05
+2,Arsenal,Leicester City,Arsenal,0.04
+2,Arsenal,Leicester City,Arsenal,0.06
+2,Arsenal,Leicester City,Arsenal,0.07
+2,Arsenal,Leicester City,Arsenal,0.19
+2,Arsenal,Leicester City,Arsenal,0.03
+2,Arsenal,Leicester City,Arsenal,0.81
+2,Arsenal,Leicester City,Arsenal,0.02
+2,Arsenal,Leicester City,Arsenal,0.33
+2,Arsenal,Leicester City,Arsenal,0.34
+2,Arsenal,Leicester City,Arsenal,0.03
+2,Arsenal,Leicester City,Leicester City,0.03
+2,Arsenal,Leicester City,Leicester City,0.07
+2,Arsenal,Leicester City,Arsenal,0.04
+2,Arsenal,Leicester City,Leicester City,0.09
+2,Arsenal,Leicester City,Arsenal,0.05
+2,Arsenal,Leicester City,Leicester City,0.03
+2,Arsenal,Leicester City,Arsenal,0.04
+2,Arsenal,Leicester City,Arsenal,0.35
+2,Arsenal,Leicester City,Arsenal,0.18
+2,Arsenal,Leicester City,Arsenal,0.18
+2,Arsenal,Leicester City,Leicester City,0.13
+2,Arsenal,Leicester City,Arsenal,0.04
+3,Bournemouth,Arsenal,Arsenal,0.18
+3,Bournemouth,Arsenal,Arsenal,0.47
+3,Bournemouth,Arsenal,Arsenal,0.15
+3,Bournemouth,Arsenal,Arsenal,0.1
+3,Bournemouth,Arsenal,Arsenal,0.02
+3,Bournemouth,Arsenal,Arsenal,0.02
+3,Bournemouth,Arsenal,Arsenal,0.02
+3,Bournemouth,Arsenal,Arsenal,0.05
+3,Bournemouth,Arsenal,Bournemouth,0.03
+3,Bournemouth,Arsenal,Bournemouth,0.08
+3,Bournemouth,Arsenal,Arsenal,0.1
+3,Bournemouth,Arsenal,Arsenal,0.1
+3,Bournemouth,Arsenal,Arsenal,0.03
+3,Bournemouth,Arsenal,Arsenal,0.04
+3,Bournemouth,Arsenal,Bournemouth,0.09
+3,Bournemouth,Arsenal,Bournemouth,0.02
+3,Bournemouth,Arsenal,Bournemouth,0.04
+3,Bournemouth,Arsenal,Arsenal,0.08
+3,Bournemouth,Arsenal,Bournemouth,0.02
+3,Bournemouth,Arsenal,Arsenal,0.04
+4,Arsenal,Fulham,Arsenal,0.04
+4,Arsenal,Fulham,Fulham,0.1
+4,Arsenal,Fulham,Fulham,0.06
+4,Arsenal,Fulham,Arsenal,0.09
+4,Arsenal,Fulham,Arsenal,0.16
+4,Arsenal,Fulham,Fulham,0.11
+4,Arsenal,Fulham,Arsenal,0.04
+4,Arsenal,Fulham,Arsenal,0.37
+4,Arsenal,Fulham,Arsenal,0.02
+4,Arsenal,Fulham,Fulham,0.05
+4,Arsenal,Fulham,Arsenal,0.06
+4,Arsenal,Fulham,Arsenal,0.1
+4,Arsenal,Fulham,Fulham,0.08
+4,Arsenal,Fulham,Arsenal,0.09
+4,Arsenal,Fulham,Fulham,0.03
+4,Arsenal,Fulham,Arsenal,0.03
+4,Arsenal,Fulham,Arsenal,0.11
+4,Arsenal,Fulham,Fulham,0.08
+4,Arsenal,Fulham,Arsenal,0.04
+4,Arsenal,Fulham,Arsenal,0.11
+4,Arsenal,Fulham,Fulham,0.08
+4,Arsenal,Fulham,Fulham,0.13
+4,Arsenal,Fulham,Fulham,0.03
+4,Arsenal,Fulham,Arsenal,0.07
+4,Arsenal,Fulham,Arsenal,0.03
+4,Arsenal,Fulham,Arsenal,0.1
+4,Arsenal,Fulham,Arsenal,0.04
+4,Arsenal,Fulham,Arsenal,0.22
+4,Arsenal,Fulham,Arsenal,0.11
+4,Arsenal,Fulham,Arsenal,0.04
+4,Arsenal,Fulham,Arsenal,0.11
+4,Arsenal,Fulham,Arsenal,0.75
+4,Arsenal,Fulham,Fulham,0.09
+5,Arsenal,Aston Villa,Aston Villa,0.14
+5,Arsenal,Aston Villa,Arsenal,0.09
+5,Arsenal,Aston Villa,Arsenal,0.03
+5,Arsenal,Aston Villa,Arsenal,0.08
+5,Arsenal,Aston Villa,Arsenal,0.05
+5,Arsenal,Aston Villa,Arsenal,0.04
+5,Arsenal,Aston Villa,Arsenal,0.03
+5,Arsenal,Aston Villa,Arsenal,0.24
+5,Arsenal,Aston Villa,Arsenal,0.16
+5,Arsenal,Aston Villa,Arsenal,0.36
+5,Arsenal,Aston Villa,Aston Villa,0.05
+5,Arsenal,Aston Villa,Arsenal,0.17
+5,Arsenal,Aston Villa,Arsenal,0.23
+5,Arsenal,Aston Villa,Arsenal,0.21
+5,Arsenal,Aston Villa,Arsenal,0.06
+5,Arsenal,Aston Villa,Arsenal,0.14
+5,Arsenal,Aston Villa,Arsenal,0.02
+5,Arsenal,Aston Villa,Arsenal,0.04
+5,Arsenal,Aston Villa,Arsenal,0.07
+5,Arsenal,Aston Villa,Arsenal,0.37
+5,Arsenal,Aston Villa,Arsenal,0.03
+5,Arsenal,Aston Villa,Aston Villa,0.24
+5,Arsenal,Aston Villa,Aston Villa,0.02
+5,Arsenal,Aston Villa,Arsenal,0.09
+5,Arsenal,Aston Villa,Arsenal,0.03
+5,Arsenal,Aston Villa,Arsenal,0.05
+6,Manchester Utd,Arsenal,Arsenal,0.02
+6,Manchester Utd,Arsenal,Manchester Utd,0.07
+6,Manchester Utd,Arsenal,Arsenal,0.08
+6,Manchester Utd,Arsenal,Manchester Utd,0.07
+6,Manchester Utd,Arsenal,Arsenal,0.02
+6,Manchester Utd,Arsenal,Manchester Utd,0.03
+6,Manchester Utd,Arsenal,Arsenal,0.09
+6,Manchester Utd,Arsenal,Arsenal,0.1
+6,Manchester Utd,Arsenal,Manchester Utd,0.27
+6,Manchester Utd,Arsenal,Arsenal,0.03
+6,Manchester Utd,Arsenal,Arsenal,0.03
+6,Manchester Utd,Arsenal,Manchester Utd,0.11
+6,Manchester Utd,Arsenal,Arsenal,0.02
+6,Manchester Utd,Arsenal,Arsenal,0.35
+6,Manchester Utd,Arsenal,Arsenal,0.06
+6,Manchester Utd,Arsenal,Arsenal,0.28
+6,Manchester Utd,Arsenal,Manchester Utd,0.32
+6,Manchester Utd,Arsenal,Manchester Utd,0.25
+6,Manchester Utd,Arsenal,Manchester Utd,0.12
+6,Manchester Utd,Arsenal,Arsenal,0.04
+6,Manchester Utd,Arsenal,Manchester Utd,0.19
+6,Manchester Utd,Arsenal,Arsenal,0.04
+6,Manchester Utd,Arsenal,Arsenal,0.07
+6,Manchester Utd,Arsenal,Arsenal,0.05
+6,Manchester Utd,Arsenal,Manchester Utd,0.11
+6,Manchester Utd,Arsenal,Arsenal,0.02
+8,Brentford,Arsenal,Arsenal,0.17
+8,Brentford,Arsenal,Brentford,0.04
+8,Brentford,Arsenal,Arsenal,0.16
+8,Brentford,Arsenal,Arsenal,0.2
+8,Brentford,Arsenal,Arsenal,0.12
+8,Brentford,Arsenal,Arsenal,0.04
+8,Brentford,Arsenal,Arsenal,0.02
+8,Brentford,Arsenal,Arsenal,0.02
+8,Brentford,Arsenal,Brentford,0.05
+8,Brentford,Arsenal,Arsenal,0.19
+8,Brentford,Arsenal,Arsenal,0.05
+8,Brentford,Arsenal,Brentford,0.1
+8,Brentford,Arsenal,Arsenal,0.26
+8,Brentford,Arsenal,Arsenal,0.09
+8,Brentford,Arsenal,Arsenal,0.02
+8,Brentford,Arsenal,Brentford,0.3
+8,Brentford,Arsenal,Arsenal,0.17
+8,Brentford,Arsenal,Brentford,0.04
+7,Arsenal,Everton,Arsenal,0.02
+7,Arsenal,Everton,Everton,0.04
+7,Arsenal,Everton,Everton,0.44
+7,Arsenal,Everton,Everton,0.15
+7,Arsenal,Everton,Arsenal,0.17
+7,Arsenal,Everton,Everton,0.04
+7,Arsenal,Everton,Arsenal,0.4
+7,Arsenal,Everton,Everton,0.05
+7,Arsenal,Everton,Arsenal,0.04
+7,Arsenal,Everton,Arsenal,0.19
+7,Arsenal,Everton,Everton,0.05
+7,Arsenal,Everton,Arsenal,0.03
+7,Arsenal,Everton,Arsenal,0.54
+7,Arsenal,Everton,Arsenal,0.06
+7,Arsenal,Everton,Arsenal,0.16
+7,Arsenal,Everton,Arsenal,0.22
+7,Arsenal,Everton,Arsenal,0.1
+7,Arsenal,Everton,Arsenal,0.43
+7,Arsenal,Everton,Arsenal,0.13
+7,Arsenal,Everton,Arsenal,0.14
+7,Arsenal,Everton,Arsenal,0.06
+7,Arsenal,Everton,Everton,0.08
+7,Arsenal,Everton,Everton,0.35
+9,Arsenal,Tottenham,Arsenal,0.06
+9,Arsenal,Tottenham,Arsenal,0.17
+9,Arsenal,Tottenham,Tottenham,0.45
+9,Arsenal,Tottenham,Arsenal,0.02
+9,Arsenal,Tottenham,Arsenal,0.02
+9,Arsenal,Tottenham,Arsenal,0.02
+9,Arsenal,Tottenham,Arsenal,0.04
+9,Arsenal,Tottenham,Tottenham,0.09
+9,Arsenal,Tottenham,Tottenham,0.79
+9,Arsenal,Tottenham,Tottenham,0.11
+9,Arsenal,Tottenham,Arsenal,0.03
+9,Arsenal,Tottenham,Arsenal,0.14
+9,Arsenal,Tottenham,Arsenal,0.15
+9,Arsenal,Tottenham,Arsenal,0.04
+9,Arsenal,Tottenham,Arsenal,0.03
+9,Arsenal,Tottenham,Arsenal,0.08
+9,Arsenal,Tottenham,Arsenal,0.95
+9,Arsenal,Tottenham,Tottenham,0.05
+9,Arsenal,Tottenham,Arsenal,0.21
+9,Arsenal,Tottenham,Tottenham,0.07
+9,Arsenal,Tottenham,Arsenal,0.12
+9,Arsenal,Tottenham,Arsenal,0.01
+9,Arsenal,Tottenham,Arsenal,0.04
+9,Arsenal,Tottenham,Arsenal,0.14
+9,Arsenal,Tottenham,Arsenal,0.05
+9,Arsenal,Tottenham,Tottenham,0.01
+9,Arsenal,Tottenham,Arsenal,0.02
+9,Arsenal,Tottenham,Arsenal,0.08
+9,Arsenal,Tottenham,Arsenal,0.03
+10,Arsenal,Liverpool,Arsenal,0.45
+10,Arsenal,Liverpool,Liverpool,0.1
+10,Arsenal,Liverpool,Liverpool,0.01
+10,Arsenal,Liverpool,Liverpool,0.03
+10,Arsenal,Liverpool,Arsenal,0.04
+10,Arsenal,Liverpool,Liverpool,0.06
+10,Arsenal,Liverpool,Liverpool,0.47
+10,Arsenal,Liverpool,Arsenal,0.89
+10,Arsenal,Liverpool,Arsenal,0.16
+10,Arsenal,Liverpool,Arsenal,0.09
+10,Arsenal,Liverpool,Arsenal,0.17
+10,Arsenal,Liverpool,Liverpool,0.34
+10,Arsenal,Liverpool,Arsenal,0.08
+10,Arsenal,Liverpool,Arsenal,0.21
+10,Arsenal,Liverpool,Arsenal,0.24
+10,Arsenal,Liverpool,Arsenal,0.05
+10,Arsenal,Liverpool,Arsenal,0.79
+10,Arsenal,Liverpool,Liverpool,0.07
+10,Arsenal,Liverpool,Liverpool,0.05
+11,Leeds United,Arsenal,Leeds United,0.04
+11,Leeds United,Arsenal,Leeds United,0.04
+11,Leeds United,Arsenal,Arsenal,0.1
+11,Leeds United,Arsenal,Arsenal,0.04
+11,Leeds United,Arsenal,Leeds United,0.04
+11,Leeds United,Arsenal,Leeds United,0.21
+11,Leeds United,Arsenal,Arsenal,0.07
+11,Leeds United,Arsenal,Arsenal,0.05
+11,Leeds United,Arsenal,Leeds United,0.03
+11,Leeds United,Arsenal,Leeds United,0.09
+11,Leeds United,Arsenal,Leeds United,0.02
+11,Leeds United,Arsenal,Arsenal,0.04
+11,Leeds United,Arsenal,Arsenal,0.09
+11,Leeds United,Arsenal,Leeds United,0.04
+11,Leeds United,Arsenal,Arsenal,0.03
+11,Leeds United,Arsenal,Arsenal,0.05
+11,Leeds United,Arsenal,Leeds United,0.15
+11,Leeds United,Arsenal,Leeds United,0.07
+11,Leeds United,Arsenal,Leeds United,0.79
+11,Leeds United,Arsenal,Leeds United,0.09
+11,Leeds United,Arsenal,Leeds United,0.07
+11,Leeds United,Arsenal,Leeds United,0.03
+11,Leeds United,Arsenal,Arsenal,0.07
+11,Leeds United,Arsenal,Leeds United,0.1
+11,Leeds United,Arsenal,Leeds United,0.04
+12,Arsenal,Manchester City,Arsenal,0.04
+12,Arsenal,Manchester City,Arsenal,0.05
+12,Arsenal,Manchester City,Arsenal,0.05
+12,Arsenal,Manchester City,Arsenal,0.29
+12,Arsenal,Manchester City,Arsenal,0.02
+12,Arsenal,Manchester City,Manchester City,0.22
+12,Arsenal,Manchester City,Arsenal,0.1
+12,Arsenal,Manchester City,Arsenal,0.79
+12,Arsenal,Manchester City,Manchester City,0.08
+12,Arsenal,Manchester City,Manchester City,0.07
+12,Arsenal,Manchester City,Manchester City,0.68
+12,Arsenal,Manchester City,Manchester City,0.15
+12,Arsenal,Manchester City,Manchester City,0.39
+12,Arsenal,Manchester City,Manchester City,0.07
+12,Arsenal,Manchester City,Manchester City,0.09
+12,Arsenal,Manchester City,Manchester City,0.11
+12,Arsenal,Manchester City,Arsenal,0.09
+12,Arsenal,Manchester City,Arsenal,0.03
+12,Arsenal,Manchester City,Arsenal,0.17
+13,Southampton,Arsenal,Southampton,0.02
+13,Southampton,Arsenal,Arsenal,0.18
+13,Southampton,Arsenal,Arsenal,0.09
+13,Southampton,Arsenal,Arsenal,0.12
+13,Southampton,Arsenal,Southampton,0.03
+13,Southampton,Arsenal,Arsenal,0.07
+13,Southampton,Arsenal,Southampton,0.03
+13,Southampton,Arsenal,Southampton,0.08
+13,Southampton,Arsenal,Arsenal,0.04
+13,Southampton,Arsenal,Arsenal,0.02
+13,Southampton,Arsenal,Arsenal,0.04
+13,Southampton,Arsenal,Arsenal,0.08
+13,Southampton,Arsenal,Southampton,0.05
+13,Southampton,Arsenal,Southampton,0.04
+13,Southampton,Arsenal,Arsenal,0.16
+13,Southampton,Arsenal,Arsenal,0.05
+13,Southampton,Arsenal,Southampton,0.3
+13,Southampton,Arsenal,Southampton,0.02
+13,Southampton,Arsenal,Southampton,0.02
+13,Southampton,Arsenal,Southampton,0.09
+13,Southampton,Arsenal,Arsenal,0.09
+13,Southampton,Arsenal,Arsenal,0.06
+14,Arsenal,Nott'ham Forest,Arsenal,0.1
+14,Arsenal,Nott'ham Forest,Arsenal,0.04
+14,Arsenal,Nott'ham Forest,Nott'ham Forest,0.04
+14,Arsenal,Nott'ham Forest,Arsenal,0.07
+14,Arsenal,Nott'ham Forest,Arsenal,0.08
+14,Arsenal,Nott'ham Forest,Arsenal,0.12
+14,Arsenal,Nott'ham Forest,Arsenal,0.17
+14,Arsenal,Nott'ham Forest,Arsenal,0.16
+14,Arsenal,Nott'ham Forest,Arsenal,0.04
+14,Arsenal,Nott'ham Forest,Nott'ham Forest,0.03
+14,Arsenal,Nott'ham Forest,Arsenal,0.04
+14,Arsenal,Nott'ham Forest,Nott'ham Forest,0.09
+14,Arsenal,Nott'ham Forest,Nott'ham Forest,0.23
+14,Arsenal,Nott'ham Forest,Arsenal,0.03
+14,Arsenal,Nott'ham Forest,Arsenal,0.04
+14,Arsenal,Nott'ham Forest,Arsenal,0.16
+14,Arsenal,Nott'ham Forest,Arsenal,0.21
+14,Arsenal,Nott'ham Forest,Arsenal,0.29
+14,Arsenal,Nott'ham Forest,Arsenal,0.04
+14,Arsenal,Nott'ham Forest,Arsenal,0.27
+14,Arsenal,Nott'ham Forest,Arsenal,0.03
+14,Arsenal,Nott'ham Forest,Arsenal,0.04
+14,Arsenal,Nott'ham Forest,Arsenal,0.13
+14,Arsenal,Nott'ham Forest,Arsenal,0.1
+14,Arsenal,Nott'ham Forest,Arsenal,0.11
+14,Arsenal,Nott'ham Forest,Arsenal,0.04
+14,Arsenal,Nott'ham Forest,Arsenal,0.04
+14,Arsenal,Nott'ham Forest,Arsenal,0.03
+14,Arsenal,Nott'ham Forest,Nott'ham Forest,0.04
+15,Chelsea,Arsenal,Arsenal,0.02
+15,Chelsea,Arsenal,Arsenal,0.1
+15,Chelsea,Arsenal,Arsenal,0.09
+15,Chelsea,Arsenal,Arsenal,0.06
+15,Chelsea,Arsenal,Chelsea,0.04
+15,Chelsea,Arsenal,Arsenal,0.33
+15,Chelsea,Arsenal,Chelsea,0.13
+15,Chelsea,Arsenal,Chelsea,0.02
+15,Chelsea,Arsenal,Arsenal,0.03
+15,Chelsea,Arsenal,Arsenal,0.18
+15,Chelsea,Arsenal,Chelsea,0.05
+15,Chelsea,Arsenal,Arsenal,0.16
+15,Chelsea,Arsenal,Arsenal,0.07
+15,Chelsea,Arsenal,Arsenal,0.16
+15,Chelsea,Arsenal,Arsenal,0.78
+15,Chelsea,Arsenal,Arsenal,0.11
+15,Chelsea,Arsenal,Arsenal,0.12
+15,Chelsea,Arsenal,Arsenal,0.04
+15,Chelsea,Arsenal,Chelsea,0.05
+16,Wolves,Arsenal,Arsenal,0.11
+16,Wolves,Arsenal,Wolves,0.07
+16,Wolves,Arsenal,Arsenal,0.06
+16,Wolves,Arsenal,Arsenal,0.1
+16,Wolves,Arsenal,Arsenal,0.09
+16,Wolves,Arsenal,Arsenal,0.05
+16,Wolves,Arsenal,Wolves,0.03
+16,Wolves,Arsenal,Arsenal,0.03
+16,Wolves,Arsenal,Wolves,0.09
+16,Wolves,Arsenal,Arsenal,0.94
+16,Wolves,Arsenal,Wolves,0.05
+16,Wolves,Arsenal,Arsenal,0.04
+16,Wolves,Arsenal,Arsenal,0.26
+16,Wolves,Arsenal,Arsenal,0.01
+16,Wolves,Arsenal,Arsenal,0.07
+16,Wolves,Arsenal,Arsenal,0.28
+16,Wolves,Arsenal,Wolves,0.07
+16,Wolves,Arsenal,Arsenal,0.05
+16,Wolves,Arsenal,Wolves,0.04
+16,Wolves,Arsenal,Wolves,0.07
+16,Wolves,Arsenal,Arsenal,0.05
+16,Wolves,Arsenal,Wolves,0.13
+16,Wolves,Arsenal,Wolves,0.09
+16,Wolves,Arsenal,Wolves,0.02
+16,Wolves,Arsenal,Wolves,0.02
+17,Arsenal,West Ham,Arsenal,0.04
+17,Arsenal,West Ham,West Ham,0.03
+17,Arsenal,West Ham,Arsenal,0.13
+17,Arsenal,West Ham,Arsenal,0.13
+17,Arsenal,West Ham,West Ham,0.79
+17,Arsenal,West Ham,Arsenal,0.05
+17,Arsenal,West Ham,West Ham,0.03
+17,Arsenal,West Ham,Arsenal,0.04
+17,Arsenal,West Ham,Arsenal,0.04
+17,Arsenal,West Ham,West Ham,0.09
+17,Arsenal,West Ham,Arsenal,0.05
+17,Arsenal,West Ham,Arsenal,0.03
+17,Arsenal,West Ham,Arsenal,0.66
+17,Arsenal,West Ham,Arsenal,0.08
+17,Arsenal,West Ham,West Ham,0.02
+17,Arsenal,West Ham,Arsenal,0.27
+17,Arsenal,West Ham,West Ham,0.03
+17,Arsenal,West Ham,Arsenal,0.03
+17,Arsenal,West Ham,Arsenal,0.04
+17,Arsenal,West Ham,Arsenal,0.08
+17,Arsenal,West Ham,Arsenal,0.12
+17,Arsenal,West Ham,Arsenal,0.41
+17,Arsenal,West Ham,West Ham,0.03
+17,Arsenal,West Ham,West Ham,0.02
+18,Brighton,Arsenal,Arsenal,0.04
+18,Brighton,Arsenal,Arsenal,0.37
+18,Brighton,Arsenal,Arsenal,0.46
+18,Brighton,Arsenal,Arsenal,0.11
+18,Brighton,Arsenal,Arsenal,0.15
+18,Brighton,Arsenal,Brighton,0.04
+18,Brighton,Arsenal,Brighton,0.11
+18,Brighton,Arsenal,Arsenal,0.16
+18,Brighton,Arsenal,Brighton,0.06
+18,Brighton,Arsenal,Arsenal,0.07
+18,Brighton,Arsenal,Arsenal,0.07
+18,Brighton,Arsenal,Arsenal,0.06
+18,Brighton,Arsenal,Arsenal,0.62
+18,Brighton,Arsenal,Brighton,0.17
+18,Brighton,Arsenal,Arsenal,0.06
+18,Brighton,Arsenal,Arsenal,0.38
+18,Brighton,Arsenal,Arsenal,0.14
+18,Brighton,Arsenal,Brighton,0.34
+18,Brighton,Arsenal,Arsenal,0.33
+18,Brighton,Arsenal,Brighton,0.12
+18,Brighton,Arsenal,Brighton,0.2
+18,Brighton,Arsenal,Brighton,0.07
+18,Brighton,Arsenal,Brighton,0.06
+19,Arsenal,Newcastle Utd,Arsenal,0.04
+19,Arsenal,Newcastle Utd,Arsenal,0.09
+19,Arsenal,Newcastle Utd,Arsenal,0.11
+19,Arsenal,Newcastle Utd,Arsenal,0.09
+19,Arsenal,Newcastle Utd,Arsenal,0.22
+19,Arsenal,Newcastle Utd,Newcastle Utd,0.03
+19,Arsenal,Newcastle Utd,Newcastle Utd,0.14
+19,Arsenal,Newcastle Utd,Arsenal,0.07
+19,Arsenal,Newcastle Utd,Arsenal,0.03
+19,Arsenal,Newcastle Utd,Newcastle Utd,0.03
+19,Arsenal,Newcastle Utd,Newcastle Utd,0.04
+19,Arsenal,Newcastle Utd,Newcastle Utd,0.12
+19,Arsenal,Newcastle Utd,Newcastle Utd,0.47
+19,Arsenal,Newcastle Utd,Newcastle Utd,0.06
+19,Arsenal,Newcastle Utd,Newcastle Utd,0.19
+19,Arsenal,Newcastle Utd,Arsenal,0.09
+19,Arsenal,Newcastle Utd,Arsenal,0.06
+19,Arsenal,Newcastle Utd,Arsenal,0.02
+19,Arsenal,Newcastle Utd,Arsenal,0.02
+19,Arsenal,Newcastle Utd,Arsenal,0.09
+19,Arsenal,Newcastle Utd,Arsenal,0.05
+19,Arsenal,Newcastle Utd,Arsenal,0.02
+19,Arsenal,Newcastle Utd,Arsenal,0.07
+19,Arsenal,Newcastle Utd,Arsenal,0.03
+19,Arsenal,Newcastle Utd,Arsenal,0.03
+20,Tottenham,Arsenal,Arsenal,0.07
+20,Tottenham,Arsenal,Arsenal,0.32
+20,Tottenham,Arsenal,Arsenal,0.06
+20,Tottenham,Arsenal,Tottenham,0.35
+20,Tottenham,Arsenal,Tottenham,0.02
+20,Tottenham,Arsenal,Arsenal,0.04
+20,Tottenham,Arsenal,Arsenal,0.25
+20,Tottenham,Arsenal,Arsenal,0.04
+20,Tottenham,Arsenal,Arsenal,0.03
+20,Tottenham,Arsenal,Arsenal,0.05
+20,Tottenham,Arsenal,Arsenal,0.05
+20,Tottenham,Arsenal,Tottenham,0.26
+20,Tottenham,Arsenal,Tottenham,0.06
+20,Tottenham,Arsenal,Tottenham,0.04
+20,Tottenham,Arsenal,Tottenham,0.07
+20,Tottenham,Arsenal,Tottenham,0.18
+20,Tottenham,Arsenal,Tottenham,0.03
+20,Tottenham,Arsenal,Tottenham,0.03
+20,Tottenham,Arsenal,Arsenal,0.1
+20,Tottenham,Arsenal,Tottenham,0.09
+20,Tottenham,Arsenal,Tottenham,0.09
+20,Tottenham,Arsenal,Arsenal,0.03
+20,Tottenham,Arsenal,Arsenal,0.62
+20,Tottenham,Arsenal,Arsenal,0.1
+20,Tottenham,Arsenal,Arsenal,0.09
+20,Tottenham,Arsenal,Tottenham,0.06
+20,Tottenham,Arsenal,Tottenham,0.06
+20,Tottenham,Arsenal,Tottenham,0.12
+20,Tottenham,Arsenal,Tottenham,0.06
+20,Tottenham,Arsenal,Tottenham,0.05
+20,Tottenham,Arsenal,Tottenham,0.02
+21,Arsenal,Manchester Utd,Arsenal,0.17
+21,Arsenal,Manchester Utd,Arsenal,0.11
+21,Arsenal,Manchester Utd,Arsenal,0.03
+21,Arsenal,Manchester Utd,Arsenal,0.09
+21,Arsenal,Manchester Utd,Manchester Utd,0.05
+21,Arsenal,Manchester Utd,Arsenal,0.08
+21,Arsenal,Manchester Utd,Arsenal,0.09
+21,Arsenal,Manchester Utd,Arsenal,0.42
+21,Arsenal,Manchester Utd,Manchester Utd,0.06
+21,Arsenal,Manchester Utd,Arsenal,0.04
+21,Arsenal,Manchester Utd,Arsenal,0.07
+21,Arsenal,Manchester Utd,Arsenal,0.06
+21,Arsenal,Manchester Utd,Arsenal,0.05
+21,Arsenal,Manchester Utd,Arsenal,0.04
+21,Arsenal,Manchester Utd,Arsenal,0.02
+21,Arsenal,Manchester Utd,Manchester Utd,0.09
+21,Arsenal,Manchester Utd,Manchester Utd,0.02
+21,Arsenal,Manchester Utd,Manchester Utd,0.08
+21,Arsenal,Manchester Utd,Arsenal,0.07
+21,Arsenal,Manchester Utd,Arsenal,0.17
+21,Arsenal,Manchester Utd,Arsenal,0.09
+21,Arsenal,Manchester Utd,Arsenal,0.1
+21,Arsenal,Manchester Utd,Arsenal,0.07
+21,Arsenal,Manchester Utd,Arsenal,0.08
+21,Arsenal,Manchester Utd,Arsenal,0.1
+21,Arsenal,Manchester Utd,Arsenal,0.05
+21,Arsenal,Manchester Utd,Arsenal,0.06
+21,Arsenal,Manchester Utd,Arsenal,0.47
+21,Arsenal,Manchester Utd,Manchester Utd,0.06
+21,Arsenal,Manchester Utd,Arsenal,0.09
+21,Arsenal,Manchester Utd,Arsenal,0.61
+22,Everton,Arsenal,Everton,0.05
+22,Everton,Arsenal,Arsenal,0.04
+22,Everton,Arsenal,Arsenal,0.04
+22,Everton,Arsenal,Everton,0.11
+22,Everton,Arsenal,Everton,0.09
+22,Everton,Arsenal,Everton,0.03
+22,Everton,Arsenal,Everton,0.02
+22,Everton,Arsenal,Arsenal,0.19
+22,Everton,Arsenal,Everton,0.69
+22,Everton,Arsenal,Everton,0.24
+22,Everton,Arsenal,Arsenal,0.06
+22,Everton,Arsenal,Arsenal,0.05
+22,Everton,Arsenal,Everton,0.1
+22,Everton,Arsenal,Arsenal,0.08
+22,Everton,Arsenal,Arsenal,0.03
+22,Everton,Arsenal,Arsenal,0.06
+22,Everton,Arsenal,Everton,0.01
+22,Everton,Arsenal,Arsenal,0.1
+22,Everton,Arsenal,Everton,0.26
+22,Everton,Arsenal,Everton,0.05
+22,Everton,Arsenal,Arsenal,0.04
+22,Everton,Arsenal,Arsenal,0.04
+22,Everton,Arsenal,Arsenal,0.04
+22,Everton,Arsenal,Arsenal,0.06
+22,Everton,Arsenal,Everton,0.02
+22,Everton,Arsenal,Arsenal,0.02
+22,Everton,Arsenal,Arsenal,0.06
+23,Arsenal,Brentford,Arsenal,0.05
+23,Arsenal,Brentford,Brentford,0.41
+23,Arsenal,Brentford,Arsenal,0.06
+23,Arsenal,Brentford,Arsenal,0.03
+23,Arsenal,Brentford,Arsenal,0.09
+23,Arsenal,Brentford,Brentford,0.05
+23,Arsenal,Brentford,Arsenal,0.04
+23,Arsenal,Brentford,Brentford,0.26
+23,Arsenal,Brentford,Arsenal,0.08
+23,Arsenal,Brentford,Brentford,0.11
+23,Arsenal,Brentford,Brentford,0.05
+23,Arsenal,Brentford,Brentford,0.04
+23,Arsenal,Brentford,Arsenal,0.07
+23,Arsenal,Brentford,Arsenal,0.04
+23,Arsenal,Brentford,Arsenal,0.03
+23,Arsenal,Brentford,Arsenal,0.04
+23,Arsenal,Brentford,Arsenal,0.07
+23,Arsenal,Brentford,Brentford,0.06
+23,Arsenal,Brentford,Arsenal,0.02
+23,Arsenal,Brentford,Arsenal,0.03
+23,Arsenal,Brentford,Arsenal,0.02
+23,Arsenal,Brentford,Arsenal,0.03
+23,Arsenal,Brentford,Arsenal,0.03
+23,Arsenal,Brentford,Arsenal,0.04
+23,Arsenal,Brentford,Arsenal,0.64
+23,Arsenal,Brentford,Arsenal,0.04
+23,Arsenal,Brentford,Brentford,0.96
+23,Arsenal,Brentford,Arsenal,0.02
+23,Arsenal,Brentford,Arsenal,0.02
+23,Arsenal,Brentford,Arsenal,0.03
+23,Arsenal,Brentford,Arsenal,0.04
+23,Arsenal,Brentford,Brentford,0.07
+24,Aston Villa,Arsenal,Aston Villa,0.02
+24,Aston Villa,Arsenal,Aston Villa,0.08
+24,Aston Villa,Arsenal,Arsenal,0.08
+24,Aston Villa,Arsenal,Arsenal,0.02
+24,Aston Villa,Arsenal,Aston Villa,0.03
+24,Aston Villa,Arsenal,Aston Villa,0.2
+24,Aston Villa,Arsenal,Arsenal,0.06
+24,Aston Villa,Arsenal,Arsenal,0.06
+24,Aston Villa,Arsenal,Arsenal,0.02
+24,Aston Villa,Arsenal,Arsenal,0.03
+24,Aston Villa,Arsenal,Arsenal,0.22
+24,Aston Villa,Arsenal,Arsenal,0.03
+24,Aston Villa,Arsenal,Arsenal,0.15
+24,Aston Villa,Arsenal,Arsenal,0.17
+24,Aston Villa,Arsenal,Arsenal,0.15
+24,Aston Villa,Arsenal,Arsenal,0.04
+24,Aston Villa,Arsenal,Arsenal,0.46
+24,Aston Villa,Arsenal,Aston Villa,0.07
+24,Aston Villa,Arsenal,Arsenal,0.05
+24,Aston Villa,Arsenal,Arsenal,0.34
+24,Aston Villa,Arsenal,Aston Villa,0.06
+24,Aston Villa,Arsenal,Arsenal,0.24
+24,Aston Villa,Arsenal,Arsenal,0.05
+24,Aston Villa,Arsenal,Arsenal,0.06
+24,Aston Villa,Arsenal,Aston Villa,0.05
+24,Aston Villa,Arsenal,Arsenal,0.06
+24,Aston Villa,Arsenal,Arsenal,0.98
+25,Leicester City,Arsenal,Arsenal,0.03
+25,Leicester City,Arsenal,Arsenal,0.06
+25,Leicester City,Arsenal,Arsenal,0.1
+25,Leicester City,Arsenal,Arsenal,0.05
+25,Leicester City,Arsenal,Arsenal,0.04
+25,Leicester City,Arsenal,Arsenal,0.05
+25,Leicester City,Arsenal,Arsenal,0.06
+25,Leicester City,Arsenal,Arsenal,0.15
+25,Leicester City,Arsenal,Arsenal,0.06
+25,Leicester City,Arsenal,Arsenal,0.07
+25,Leicester City,Arsenal,Leicester City,0.02
+26,Arsenal,Bournemouth,Bournemouth,0.54
+26,Arsenal,Bournemouth,Arsenal,0.09
+26,Arsenal,Bournemouth,Arsenal,0.37
+26,Arsenal,Bournemouth,Arsenal,0.09
+26,Arsenal,Bournemouth,Arsenal,0.02
+26,Arsenal,Bournemouth,Bournemouth,0.54
+26,Arsenal,Bournemouth,Arsenal,0.06
+26,Arsenal,Bournemouth,Arsenal,0.04
+26,Arsenal,Bournemouth,Arsenal,0.02
+26,Arsenal,Bournemouth,Arsenal,0.05
+26,Arsenal,Bournemouth,Arsenal,0.02
+26,Arsenal,Bournemouth,Arsenal,0.02
+26,Arsenal,Bournemouth,Arsenal,0.04
+26,Arsenal,Bournemouth,Arsenal,0.03
+26,Arsenal,Bournemouth,Arsenal,0.04
+26,Arsenal,Bournemouth,Arsenal,0.02
+26,Arsenal,Bournemouth,Arsenal,0.02
+26,Arsenal,Bournemouth,Arsenal,0.06
+26,Arsenal,Bournemouth,Bournemouth,0.17
+26,Arsenal,Bournemouth,Arsenal,0.04
+26,Arsenal,Bournemouth,Arsenal,0.04
+26,Arsenal,Bournemouth,Arsenal,0.28
+26,Arsenal,Bournemouth,Bournemouth,0.07
+26,Arsenal,Bournemouth,Arsenal,0.12
+26,Arsenal,Bournemouth,Arsenal,0.06
+26,Arsenal,Bournemouth,Arsenal,0.03
+26,Arsenal,Bournemouth,Arsenal,0.07
+26,Arsenal,Bournemouth,Arsenal,0.24
+26,Arsenal,Bournemouth,Arsenal,0.07
+26,Arsenal,Bournemouth,Arsenal,0.08
+26,Arsenal,Bournemouth,Arsenal,0.02
+26,Arsenal,Bournemouth,Arsenal,0.03
+26,Arsenal,Bournemouth,Arsenal,0.07
+26,Arsenal,Bournemouth,Arsenal,0.04
+26,Arsenal,Bournemouth,Arsenal,0.04
+27,Fulham,Arsenal,Arsenal,0.13
+27,Fulham,Arsenal,Arsenal,0.3
+27,Fulham,Arsenal,Arsenal,0.02
+27,Fulham,Arsenal,Arsenal,0.52
+27,Fulham,Arsenal,Fulham,0.03
+27,Fulham,Arsenal,Arsenal,0.17
+27,Fulham,Arsenal,Fulham,0.05
+27,Fulham,Arsenal,Arsenal,0.3
+27,Fulham,Arsenal,Arsenal,0.2
+27,Fulham,Arsenal,Fulham,0.22
+27,Fulham,Arsenal,Arsenal,0.05
+27,Fulham,Arsenal,Fulham,0.03
+27,Fulham,Arsenal,Arsenal,0.09
+27,Fulham,Arsenal,Arsenal,0.03
+27,Fulham,Arsenal,Fulham,0.06
+27,Fulham,Arsenal,Arsenal,0.14
+27,Fulham,Arsenal,Fulham,0.1
+27,Fulham,Arsenal,Fulham,0.07
+27,Fulham,Arsenal,Fulham,0.07
+27,Fulham,Arsenal,Fulham,0.06
+27,Fulham,Arsenal,Fulham,0.04
+27,Fulham,Arsenal,Arsenal,0.03
+27,Fulham,Arsenal,Arsenal,0.12
+27,Fulham,Arsenal,Fulham,0.05
+27,Fulham,Arsenal,Arsenal,0.23
+27,Fulham,Arsenal,Arsenal,0.05
+27,Fulham,Arsenal,Fulham,0.07
+28,Arsenal,Crystal Palace,Crystal Palace,0.03
+28,Arsenal,Crystal Palace,Crystal Palace,0.04
+28,Arsenal,Crystal Palace,Arsenal,0.09
+28,Arsenal,Crystal Palace,Arsenal,0.11
+28,Arsenal,Crystal Palace,Arsenal,0.21
+28,Arsenal,Crystal Palace,Arsenal,0.05
+28,Arsenal,Crystal Palace,Arsenal,0.12
+28,Arsenal,Crystal Palace,Arsenal,0.11
+28,Arsenal,Crystal Palace,Arsenal,0.14
+28,Arsenal,Crystal Palace,Arsenal,0.03
+28,Arsenal,Crystal Palace,Arsenal,0.03
+28,Arsenal,Crystal Palace,Arsenal,0.05
+28,Arsenal,Crystal Palace,Crystal Palace,0.03
+28,Arsenal,Crystal Palace,Arsenal,0.19
+28,Arsenal,Crystal Palace,Crystal Palace,0.25
+28,Arsenal,Crystal Palace,Arsenal,0.03
+28,Arsenal,Crystal Palace,Arsenal,0.2
+28,Arsenal,Crystal Palace,Crystal Palace,0.07
+28,Arsenal,Crystal Palace,Arsenal,0.17
+28,Arsenal,Crystal Palace,Crystal Palace,0.09
+28,Arsenal,Crystal Palace,Arsenal,0.04
+28,Arsenal,Crystal Palace,Crystal Palace,0.14
+28,Arsenal,Crystal Palace,Crystal Palace,0.04
+28,Arsenal,Crystal Palace,Crystal Palace,0.1

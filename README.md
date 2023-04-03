@@ -24,5 +24,9 @@ This code reads in two CSV files, one containing shot data and the other contain
 - The column names in the filtered results_data dataframe are renamed to match the format used in the StatsBomb data.
 
 ### Input Data
-- xg_shot_data.csv: a CSV file containing shot data, with columns for match_id, team_shot, expected_goals, shot_type, shot_body_part, and shot_outcome.
-- arsenal_results_data.csv: a CSV file containing results data for Arsenal, with columns for match_id, matchweek, team_home, team_away, score_home, and score_away.
+Sample data is included in the `data` folder of this repository. The following files are included:
+
+- `xg_shot_data.csv`: a CSV file containing shot data, with columns for match_id, team_shot, expected_goals, shot_type, shot_body_part, and shot_outcome.
+- `arsenal_results_data.csv`: a CSV file containing results data for Arsenal, with columns for match_id, matchweek, team_home, team_away, score_home, and score_away.
+
+Please download the sample data and place it in the same folder as the project code to run the code.
