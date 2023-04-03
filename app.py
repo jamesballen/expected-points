@@ -8,10 +8,14 @@ df = pd.read_csv('~/Downloads/xg_shot_data.csv')
 df2 = pd.read_csv('~/Downloads/arsenal_results_data.csv')
 
 # Define a function to create a dictionary of shot_xG values grouped by team_shot
+
+
 def create_dict(group):
     return {row['team_shot']: row['shot_xG'] for _, row in group.iterrows()}
 
 # Define a function to get the shot_xG values for the home team
+
+
 def get_home_xg(row):
     home = row['team_home']
     shot_xG_dict = row['shot_xG']
@@ -21,6 +25,8 @@ def get_home_xg(row):
         return None
 
 # Define a function to get the shot_xG values for the away team
+
+
 def get_away_xg(row):
     away = row['team_away']
     shot_xG_dict = row['shot_xG']
@@ -30,10 +36,14 @@ def get_away_xg(row):
         return None
 
 # Define a function to calculate the sum of a list of values
+
+
 def sum_list(lst):
     return sum(lst)
 
 # Define a function to simulate matches
+
+
 def simulate_match(row, n=10000):
     if not isinstance(n, int):
         raise ValueError("n must be an integer.")
@@ -81,6 +91,7 @@ def simulate_match(row, n=10000):
 
     # Return the expected points for the home and away teams.
     return xPointsHome, xPointsAway
+
 
 # Group the data by matchweek, home team, away team, and team_shot, and create a list of expected_goals values for each group
 df = df.groupby(['matchweek', 'team_home', 'team_away', 'team_shot'])[
