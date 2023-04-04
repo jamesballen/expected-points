@@ -107,6 +107,17 @@ if not validate_results_data(results_data):
 # Read in CSV file containing shot data
 df2 = pd.read_csv(f'{results_data}')
 
+while True:
+    try:
+        simulations = int(
+            input("Enter the number of simulations you would like to run: "))
+        if simulations <= 0:
+            raise ValueError("Number of simulations must be greater than 0")
+        break
+    except ValueError:
+        print("Invalid input. Please enter an integer greater than 0.")
+
+
 # Define a function to create a dictionary of shot_xG values grouped by team_shot
 
 
@@ -144,7 +155,7 @@ def sum_list(lst):
 # Define a function to simulate matches
 
 
-def simulate_match(row, n=10000):
+def simulate_match(row, n):
     if not isinstance(n, int):
         raise ValueError("n must be an integer.")
 
@@ -215,7 +226,7 @@ df.drop('shot_xG', axis=1, inplace=True)
 # Iterate over each row (match) in the dataframe.
 for index, row in df.iterrows():
     # Simulate the match using the 'simulate_match' function and extract the expected points for the home and away teams.
-    xPointsHome, xPointsAway = simulate_match(row)
+    xPointsHome, xPointsAway = simulate_match(row, n=simulations)
 
     # Update the 'xPointsHome' and 'xPointsAway' columns in the dataframe with the expected points.
     df.at[index, 'xPointsHome'] = xPointsHome
@@ -277,4 +288,4 @@ print(results)
 
 results.to_csv('~/Downloads/expected-points.csv', sep='\t')
 
-print('10,000 matches simulated. "expected-points.csv" placed in "Downloads" folder')
+print(f'{simulations} matches simulated. "expected-points.csv" placed in "Downloads" folder')
