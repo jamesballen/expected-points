@@ -1,11 +1,111 @@
 import random
 import pandas as pd
 
+
+def validate_xg_shot_data(xg_shot_data):
+    # Try to read in the CSV file
+    try:
+        df = pd.read_csv(xg_shot_data)
+    except:
+        # If there's an error reading the file, print an error message and return False
+        print(f"Error: File {xg_shot_data} could not be read.")
+        return False
+
+    # Define the required columns for the CSV file
+    required_cols = ['matchweek', 'team_home',
+                     'team_away', 'team_shot', 'expected_goals']
+    # Check that each required column is present in the DataFrame
+    for col in required_cols:
+        if col not in df.columns:
+            # If a required column is missing, print an error message and return False
+            print(f"Error: CSV file must have a column for {col}.")
+            return False
+
+    # Check that the 'matchweek' column contains only integer values
+    if not pd.api.types.is_integer_dtype(df['matchweek']):
+        print("Error: matchweek column must contain integer values.")
+        return False
+
+    # Check that the 'team_home', 'team_away', and 'team_shot' columns contain only string values
+    if not all(pd.api.types.is_string_dtype(df[col]) for col in ['team_home', 'team_away', 'team_shot']):
+        print(
+            "Error: team_home, team_away and team_shot columns must contain string values.")
+        return False
+
+    # Check that the 'expected_goals' column contains only float values
+    if not pd.api.types.is_float_dtype(df['expected_goals']):
+        print("Error: expected_goals column must contain float values.")
+        return False
+
+    # If all checks pass, return True
+    return True
+
+
+def validate_results_data(results_data):
+    # Try to read in the CSV file
+    try:
+        df = pd.read_csv(results_data)
+    except:
+        # If there's an error reading the file, print an error message and return False
+        print(f"Error: File {results_data} could not be read.")
+        return False
+
+    # Define the required columns for the CSV file
+    required_cols = ['matchweek', 'opponent', 'G', 'GA', 'points', 'date']
+    # Check that each required column is present in the DataFrame
+    for col in required_cols:
+        if col not in df.columns:
+            # If a required column is missing, print an error message and return False
+            print(f"Error: CSV file must have a column for {col}.")
+            return False
+
+    # Check that the 'matchweek', 'G', 'GA', and 'points' columns contain only integer values
+    int_cols = ['matchweek', 'G', 'GA', 'points']
+    for col in int_cols:
+        if not pd.api.types.is_integer_dtype(df[col]):
+            print(f"Error: {col} column must contain integer values.")
+            return False
+
+    # Check that the 'opponent' column contains only string values
+    if not pd.api.types.is_string_dtype(df['opponent']):
+        print("Error: opponent column must contain string values.")
+        return False
+
+    try:
+        pd.to_datetime(df['date'])
+    except ValueError:
+        print("Error: date column must contain date values.")
+        return False
+
+    # If all checks pass, return True
+    return True
+
+
+# Prompt the user to enter the file path for the CSV file
+xg_shot_data = input(
+    'Please enter the file extension for the xg_shot_data file (e.g. "~/Downloads/xg_shot_data.csv"): ')
+
+# Call the validate_xg_shot_data function on the specified file path
+if not validate_xg_shot_data(xg_shot_data):
+    # If the function returns False, print an error message
+    print("File format is not correct. Please check the file extension and column names/types.")
+    exit()
+
 # Read in the CSV file containing the shot data
-df = pd.read_csv('~/Downloads/xg_shot_data.csv')
+df = pd.read_csv(f'{xg_shot_data}')
+
+# Prompt the user to enter the file path for the CSV file
+results_data = input(
+    'Please enter the file extension for the arsenal_results_data file (e.g. "~/Downloads/arsenal_results_data.csv"): ')
+
+# Call the validate_results_data function on the specified file path
+if not validate_results_data(results_data):
+    # If the function returns False, print an error message
+    print("File format is not correct. Please check the file extension and column names/types.")
+    exit()
 
 # Read in CSV file containing shot data
-df2 = pd.read_csv('~/Downloads/arsenal_results_data.csv')
+df2 = pd.read_csv(f'{results_data}')
 
 # Define a function to create a dictionary of shot_xG values grouped by team_shot
 
@@ -157,13 +257,13 @@ results = results.sort_values('date').reset_index(drop=True)
 results['date'] = pd.to_datetime(results['date'])
 
 # Create new columns for various cumulative and difference variables based on expected and actual results
-results['Points_var'] = results['Points'] - results['xPoints']
+results['points_var'] = results['points'] - results['xPoints']
 results['G_var'] = results['G'] - results['xG']
 results['GA_var'] = results['GA'] - results['xGA']
 
 results['cum_xPoints'] = results['xPoints'].cumsum()
-results['cum_Points'] = results['Points'].cumsum()
-results['cum_Points_var'] = results['Points_var'].cumsum()
+results['cum_points'] = results['points'].cumsum()
+results['cum_points_var'] = results['points_var'].cumsum()
 
 results['cum_xG'] = results['xG'].cumsum()
 results['cum_G'] = results['G'].cumsum()
